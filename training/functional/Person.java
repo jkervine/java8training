@@ -1,3 +1,5 @@
+package functional;
+
 public class Person implements Comparable<Person> {
 
 	private String surname;
